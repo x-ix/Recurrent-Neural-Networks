@@ -8,4 +8,4 @@ pretty_name: '*'
 ---
 # Recurrent Neural Networks
 
-Learning about RNNs (THEORY)
+Learning about RNNs (Theory)
